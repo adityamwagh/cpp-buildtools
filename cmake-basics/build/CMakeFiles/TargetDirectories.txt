@@ -1,0 +1,3 @@
+/home/aditya/cpp-buildtools/cmake-basics/build/CMakeFiles/cmake_basics.dir
+/home/aditya/cpp-buildtools/cmake-basics/build/CMakeFiles/edit_cache.dir
+/home/aditya/cpp-buildtools/cmake-basics/build/CMakeFiles/rebuild_cache.dir
